@@ -38,3 +38,10 @@ echo "Log in with the admin credentials you created."
 echo "Configure the necessary DNS records for your domain, including MX, SPF, DKIM, and DMARC records."
 # Test Email Delivery
 echo "Send a test email to verify that your server is correctly configured."
+
+
+echo "  !!!!!!!!!!!!!!!!!!!!!!! Congratulations We did a great Job !!!!!!!!!!!!!!!!!!!!!!!!!!!1"
+
+
+
+
